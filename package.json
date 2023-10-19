@@ -1,0 +1,23 @@
+{
+  "name": "iyah",
+  "version": "1.0.0",
+  "description": "case",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "media": "media"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+   "chalk": "latest",
+   "fs": "latest",
+   "human-readable": "latest",
+   "moment-timezone": "latest",
+   "mywajs": "github:amiruldev20/mywajs",
+   "os": "latest"
+   "util": "latest"
+  }
+}

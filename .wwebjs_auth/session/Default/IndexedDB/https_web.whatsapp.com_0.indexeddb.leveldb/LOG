@@ -1,0 +1,22 @@
+2023/08/06-13:29:20.518 4198 Reusing MANIFEST D:\Project\gekko\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-13:29:20.519 4198 Recovering log #78
+2023/08/06-13:29:20.743 4198 Reusing old log D:\Project\gekko\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000078.log 
+2023/08/06-13:29:44.478 3de0 Level-0 table #88: started
+2023/08/06-13:29:44.509 3de0 Level-0 table #88: 1028204 bytes OK
+2023/08/06-13:29:44.510 3de0 Delete type=0 #78
+2023/08/06-13:29:44.524 2034 Compacting 1@1 + 6@2 files
+2023/08/06-13:29:44.617 2034 Generated table #89@1: 17904 keys, 2186664 bytes
+2023/08/06-13:29:44.652 2034 Generated table #90@1: 2977 keys, 2168916 bytes
+2023/08/06-13:29:44.692 2034 Generated table #91@1: 3213 keys, 2165960 bytes
+2023/08/06-13:29:44.729 2034 Generated table #92@1: 10994 keys, 2158346 bytes
+2023/08/06-13:29:44.814 2034 Generated table #93@1: 25307 keys, 2273687 bytes
+2023/08/06-13:29:44.886 2034 Generated table #94@1: 62887 keys, 1827661 bytes
+2023/08/06-13:29:44.886 2034 Compacted 1@1 + 6@2 files => 12781234 bytes
+2023/08/06-13:29:44.887 2034 compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/08/06-13:29:44.887 2034 Delete type=2 #80
+2023/08/06-13:29:44.887 2034 Delete type=2 #81
+2023/08/06-13:29:44.887 2034 Delete type=2 #82
+2023/08/06-13:29:44.887 2034 Delete type=2 #83
+2023/08/06-13:29:44.887 2034 Delete type=2 #84
+2023/08/06-13:29:44.887 2034 Delete type=2 #85
+2023/08/06-13:29:44.887 2034 Delete type=2 #88

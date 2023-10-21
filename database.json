@@ -1,0 +1,35 @@
+{
+   "users": {
+      "6287840174790@c.us": {
+         "afk": -1,
+         "afk_info": " emem",
+         "banned": false,
+         "premium": false,
+         "expired": 0,
+         "limit": 10
+      },
+      "62812381421445@c.us": {
+         "afk": -1,
+         "afk_info": "",
+         "banned": false,
+         "premium": false,
+         "expired": 0,
+         "limit": 10
+      }
+   },
+   "groups": {
+      "120363143808033241@g.us": {
+         "mute": false,
+         "game": true,
+         "nsfw": false,
+         "welcome": true,
+         "textwel": "",
+         "textleft": "",
+         "antilink": false
+      }
+   },
+   "setting": {
+      "groupmode": true,
+      "self": "public"
+   }
+}
